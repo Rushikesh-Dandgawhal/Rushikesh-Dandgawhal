@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Rushikesh Dandgawhal 👋
 
-<!--
-**Rushikesh-Dandgawhal/Rushikesh-Dandgawhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Electronics & Telecommunication Engineer
 
-Here are some ideas to get you started:
+Aspiring RTL Design and VLSI Engineer with experience in Verilog HDL, functional verification, and digital design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Verilog HDL
+- RTL Design
+- FSM Design
+- Functional Verification
+- ModelSim
+- Quartus Prime
+- Python
+- C++
+
+## Projects
+
+### AHB-APB Bridge
+- RTL Design and Verification
+- FSM-based protocol conversion
+- Verilog HDL implementation
+- ModelSim simulation
+
+## Current Focus
+
+- RTL Design
+- SystemVerilog
+- Verification
+- FPGA Design
+
+## Contact
+
+- Email: rushikeshdandgawhal@gmail.com
