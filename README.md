@@ -1,35 +1,37 @@
 # Hi, I'm Rushikesh Dandgawhal 👋
 
-## Electronics & Telecommunication Engineer
+## RTL Design | VLSI Engineer | Verilog HDL
 
-Aspiring RTL Design and VLSI Engineer with experience in Verilog HDL, functional verification, and digital design.
+Electronics & Telecommunication Engineer with a strong interest in RTL Design, ASIC Design, FPGA Design, and Functional Verification.
 
-## Skills
+### Skills
 
 - Verilog HDL
 - RTL Design
-- FSM Design
+- Digital Electronics
 - Functional Verification
 - ModelSim
 - Quartus Prime
 - Python
 - C++
 
-## Projects
+### Current Learning
 
-### AHB-APB Bridge
-- RTL Design and Verification
-- FSM-based protocol conversion
-- Verilog HDL implementation
-- ModelSim simulation
-
-## Current Focus
-
-- RTL Design
 - SystemVerilog
-- Verification
 - FPGA Design
+- ASIC Design Flow
+- Verification Methodologies
 
-## Contact
+### Projects
 
-- Email: rushikeshdandgawhal@gmail.com
+- AHB-APB Bridge (RTL Design)
+- UART Controller (In Progress)
+- FIFO Design (Planned)
+- SPI Controller (Planned)
+
+### Contact
+
+- Email: (Add your professional email)
+
+---
+⭐ Interested in RTL Design, FPGA Design, ASIC Design, and Verification Engineering.
