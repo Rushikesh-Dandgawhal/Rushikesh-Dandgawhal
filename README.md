@@ -75,6 +75,25 @@ Designed and implemented a modular **Digital Alarm Clock** using Verilog HDL fea
 
 ---
 
+### 🔹 UART 16550A (SystemVerilog)
+Designed and implemented a modular **UART 16550A-style controller** in SystemVerilog with TX/RX datapaths, FIFOs, baud-rate generation, programmable UART registers, interrupt handling, modem-control logic, and simulation-based verification.
+
+**Key Highlights**
+- UART TX/RX Design
+- TX and RX FIFO Integration
+- Baud-Rate Generation
+- UART Register Interface
+- Parity and Framing Error Detection
+- Interrupt Generation and Priority Handling
+- Modem Status and Control
+- ModelSim Simulation
+- Intel Quartus Prime Synthesis
+
+🔗 Repository:
+**https://github.com/Rushikesh-Dandgawhal/UART-16550A**
+
+---
+
 ## 🎓 Internship
 
 ### VLSI Design Internship – Maven Silicon
