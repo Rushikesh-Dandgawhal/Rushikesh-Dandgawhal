@@ -39,6 +39,28 @@ Electronics and Telecommunication Engineering graduate focused on **RTL Design, 
 
 ## 💼 Featured Projects
 
+### 🔹 I²C Master-Slave Controller | SystemVerilog
+
+Designed and implemented a synthesizable **I²C Master-Slave Controller** supporting read/write transactions, clock stretching, 7-bit slave address matching, and ACK/NACK detection.
+
+**Key Highlights**
+- I²C Master and Slave Communication
+- Read and Write Transactions
+- Clock Stretching
+- 7-bit Slave Address Matching
+- ACK/NACK Detection
+- Open-Drain SDA and SCL Bus Implementation
+- FSM-Based Control Logic
+- ModelSim Functional Verification
+- Intel Quartus Prime Synthesis and Timing Analysis
+- Post-Mapping Netlist Analysis
+
+**Verification:** Five simulation scenarios passed, covering read/write operations with and without clock stretching and incorrect-address NACK detection.
+
+🔗 **Repository:** [I2C_Master_Slave](https://github.com/Rushikesh-Dandgawhal/I2C_Master_Slave)
+
+---
+
 ### 🔹 SPI Design Projects | Verilog / SystemVerilog
 
 A collection of SPI-based RTL projects covering master–slave communication, a PMOD DA4 digital-to-analog converter (DAC) controller, and SPI daisy-chain concepts.
